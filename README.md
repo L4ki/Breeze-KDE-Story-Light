@@ -6,7 +6,12 @@ Changelog: 09.10.2023.
 
 Completely redesigned Theme
 
-Changelog: 16.10.2023.
+Changelog: 23.10.2023.
 -----------------------
 
 Update: gtkrc
+
+Changelog: 16.10.2023.
+-----------------------
+
+Update: progressbar-bar.png
