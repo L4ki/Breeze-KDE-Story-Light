@@ -20,3 +20,8 @@ Changelog: 30.10.2023.
 -----------------------
 
 Update: null.png
+
+Changelog: 14.11.2023.
+-----------------------
+
+Update: gtkrc
