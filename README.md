@@ -30,3 +30,8 @@ Changelog: 28.11.2023.
 -----------------------
 
 Update: styles
+
+Changelog: 05.12.2023.
+-----------------------
+
+Update: gtkrc
