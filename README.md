@@ -4,4 +4,4 @@ GTK-3/4 Theme
 Changelog: 12.09.2024.
 -----------------------
 
-Update: window_decorations.css
+Update: gtkrc
