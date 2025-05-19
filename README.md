@@ -4,4 +4,4 @@ GTK-3/4 Theme
 Changelog: 12.05.2025.
 -----------------------
 
-Update: gtkrc
+Update: gtk-4.0
