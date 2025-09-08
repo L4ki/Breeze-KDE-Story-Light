@@ -1,7 +1,7 @@
 # Breeze-KDE-Story-Light
 GTK-3/4 Theme
 
-Changelog: 01.09.2025.
+Changelog: 08.09.2025.
 -----------------------
 
-Update: styles
+Update: gtkrc
